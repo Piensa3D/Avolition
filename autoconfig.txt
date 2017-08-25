@@ -1,11 +1,11 @@
 #auto generated config file
 #use config.txt to hand-edit custom options
-win-size 800 600
-music-volume 34
+win-size 1280 720
+music-volume 62
 sound-volume 100
 bloom 1
 multisamples 2
-fullscreen 0
+fullscreen 1
 safemode 0
 key_action1 mouse1|enter
 key_back s|arrow_down
